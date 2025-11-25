@@ -4,3 +4,6 @@ numpy
 keras
 scikit-learn
 joblib
+tensorflow
+jupyter
+ipykernel
